@@ -1,6 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Валерия Матиева](https://up.htmlacademy.ru/adaptive/23/user/1363035).
+* Профиль: https://htmlacademy.ru//profile/id1363035.
 * Наставник: `Влад Башилов`.
 
 ---
